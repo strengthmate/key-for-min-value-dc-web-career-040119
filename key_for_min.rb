@@ -15,7 +15,7 @@ end
 
 lowest_value/key start at nil. Method then iterates over the hash. if either the lowest_value is nil, 
 or if the current value of lowest value is greater than the value currently being iterated. 
-so in the iteration the lowest_value (and lowest_key) 
+then the lowest_value (and lowest_key) 
 change to the key/value of the key/value currently
 being iterated.
 
