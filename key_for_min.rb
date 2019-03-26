@@ -12,3 +12,5 @@ def key_for_min_value(name_hash)
   end
   lowest_key
 end
+
+# lowest_value starts at nil, so in the iteration if
